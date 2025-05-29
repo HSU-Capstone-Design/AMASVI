@@ -1,0 +1,31 @@
+# Android build folders
+/build/
+/app/build/
+/OpenCV/build/
+/captures/
+/.gradle/
+/.cxx/
+/.externalNativeBuild/
+
+# IDE and system files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local configuration
+local.properties
+
+# Logs and binaries
+*.log
+*.apk
+*.aab
+*.jar
+
+# Signing keys - NEVER push to GitHub
+*.keystore
+*.jks
+
+/app/src/main/java/com.example.application/version/
+/app/src/main/assets/
+/OpenCV/

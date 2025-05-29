@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 이름은 project-level manifest 와 일치하는 테마명으로 변경하세요 -->
+    <style name="Theme.Application" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 필요에 따라 스테이터스바 색상 등 추가 -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>
