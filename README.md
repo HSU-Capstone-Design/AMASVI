@@ -15,7 +15,7 @@ A Multimodal Assistance System for the Visually Impaired
 - **LLM(OpenAI GPT-3.5-turbo) 연동**  
   - 음성 인식 결과에서 단일 키워드 추출  
   - OCR 결과 리스트 중 키워드 매칭  
-- **TTS(음성 안내)**: 위험 구역, 키워드 관련 지점 탐지 시 거리 및 방향 음성 안내  
+- **TTS**: 위험 구역, 키워드 관련 지점 탐지 시 거리 및 방향 음성 안내  
 
 ## 구조
 
