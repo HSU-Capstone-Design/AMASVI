@@ -19,22 +19,6 @@ A Multimodal Assistance System for the Visually Impaired
 
 ## 구조
 
-app/
-├─ src/main/java/com/example/application/
-│ 
-├─ MainActivity.kt  
-│ ├─ GLPDepthHelper.kt 
-│ ├─ YoloHelper.kt 
-│ ├─ MlKitRecognitionHelper.kt 
-│ ├─ STTManager.kt 
-│ ├─ TTsManager.kt 
-│ ├─ LLMManager.kt 
-│ ├─ CameraManager.kt 
-│ └─ BitmapUtils.kt 
-└─ src/main/res/
-├─ layout/activity_main.xml 
-└─ values/… 
-
 ## 시스템 워크플로우
 앱 실행 → 항상 장애물 감지 시 경고 음성 안내
 
