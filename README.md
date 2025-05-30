@@ -21,7 +21,8 @@ A Multimodal Assistance System for the Visually Impaired
 
 app/
 ├─ src/main/java/com/example/application/
-│ ├─ MainActivity.kt  
+│ 
+├─ MainActivity.kt  
 │ ├─ GLPDepthHelper.kt 
 │ ├─ YoloHelper.kt 
 │ ├─ MlKitRecognitionHelper.kt 
