@@ -17,8 +17,6 @@ A Multimodal Assistance System for the Visually Impaired
   - OCR 결과 리스트 중 키워드 매칭  
 - **TTS**: 위험 구역, 키워드 관련 지점 탐지 시 거리 및 방향 음성 안내  
 
-## 구조
-
 ## 시스템 워크플로우
 앱 실행 → 항상 장애물 감지 시 경고 음성 안내
 
