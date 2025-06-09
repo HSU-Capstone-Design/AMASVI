@@ -33,7 +33,7 @@ ex) “주변에 카페 있으면 알려줘” 발화 → LLM을 통해 키워�
 ## 작동화면 예시
 
 1. YOLO
-
+![Image](https://github.com/user-attachments/assets/ed7989d3-f6fe-4b52-b753-48a91339ef78)
 2. OCR
 
 
