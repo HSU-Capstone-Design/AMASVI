@@ -22,7 +22,7 @@
         app:layout_constraintDimensionRatio="1:1"
         tools:visibility="visible" />
 
-    <!-- 0506: 한 번만 그려지는 static depth map (투명도 70%) -->
+    <!-- static depth map (투명도 70%) -->
     <ImageView
         android:id="@+id/depthView"
         android:layout_width="0dp"
@@ -35,7 +35,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         tools:ignore="ContentDescription" />
 
-    <!-- 0506: 매 프레임 박스만 갱신하는 오버레이 뷰 -->
+    <!-- 매 프레임 박스만 갱신하는 오버레이 뷰 -->
     <ImageView
         android:id="@+id/overlayView"
         android:layout_width="0dp"
