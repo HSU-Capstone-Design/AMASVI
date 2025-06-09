@@ -18,6 +18,9 @@ A Multimodal Assistance System for the Visually Impaired
 - **TTS**: 위험 구역, 키워드 관련 지점 탐지 시 거리 및 방향 음성 안내  
 
 ## 시스템 워크플로우
+
+![Image](https://github.com/user-attachments/assets/3f86d1bb-34b7-4ac9-ac96-efe85591ea58)
+
 앱 실행 → 항상 장애물 감지 시 경고 음성 안내
 
 On Demand → 볼륨 ↓ 버튼 길게 누름 → 음성인식 시작
