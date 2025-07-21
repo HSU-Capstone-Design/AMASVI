@@ -1,6 +1,14 @@
 # AMASVI
 A Multimodal Assistance System for the Visually Impaired
 
+## 모델 파일 안내
+
+이 프로젝트에서 사용하는 모델 파일은 GitHub의 파일 용량 제한(100MB)을 초과하기 때문에 저장소에 직접 포함되어 있지 않습니다.
+
+Releases탭에서 모델 파일을 다운로드하실 수 있습니다.
+
+다운로드한 모델 파일은 아래 경로에 배치해 주세요: 'app/src/main/assets'
+
 
 ## 작품개요
 
