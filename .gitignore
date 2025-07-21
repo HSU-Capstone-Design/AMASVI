@@ -27,5 +27,4 @@ local.properties
 *.jks
 
 /app/src/main/java/com.example.application/version/
-/app/src/main/assets/
 /OpenCV/
