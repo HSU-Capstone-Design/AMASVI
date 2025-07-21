@@ -1,0 +1,1 @@
+The model file is available in the Releases tab on GitHub.
